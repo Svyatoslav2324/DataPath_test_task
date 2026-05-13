@@ -1,0 +1,6 @@
+# Default tape delays (ms) and memory limit
+read_delay_ms=10
+write_delay_ms=10
+rewind_delay_ms=10
+shift_delay_ms=10
+memory_limit_bytes=8300
